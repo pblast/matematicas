@@ -7,7 +7,7 @@
 int16_t FuncionSuma(int16_t numero){
   int16_t valor=0;
 
-  valor=numero+15;
+  valor=numero+10;
 
   return valor;
 }
